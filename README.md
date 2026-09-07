@@ -16,6 +16,11 @@ Flutter Developer | 3+ years shipping cross-platform apps for government & enter
 **iOS**
 - [FOSCORIS on App Store](https://apps.apple.com/in/app/foscoris/id6447499183)
 - [Food Safety Connect on App Store](https://apps.apple.com/in/app/food-safety-connect/id6446887958)
+- DFPD QMS
+- FCI QMS
+- YAAMS
+- NSC
+- Forum IAS learning App
 
 ## 🛠️ Tech Stack
 Flutter · Dart · Riverpod · Provider · BLoC · Clean Architecture · Firebase · REST APIs · SQLite · CI/CD
